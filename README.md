@@ -1,3 +1,3 @@
-# precondition-discovery-contextual-bandit
+# Safe Diffusion with Reachable Sets
 
-Reposity for "Preconditioner Discovery via Contextual Bandit Reinforcement Learning"
+Repository
